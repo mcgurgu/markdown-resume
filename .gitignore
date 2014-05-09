@@ -4,6 +4,10 @@ examples/output/*.html
 examples/output/*.pdf
 .tmp_pdf_source.html
 
+ncrash/resume/_*.md
+ncrash/output/*.html
+ncrash/output/*.pdf
+.
 # OSX files
 .DS_Store
 .AppleDouble
