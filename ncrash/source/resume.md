@@ -1,5 +1,5 @@
 # Daekwon Kang
-## Java Developer
+## Web Development Engineer
 
 > [Download PDF](resume.pdf)  
 > [ncrash@me.com](mailto:ncrash@me.com)
@@ -9,7 +9,8 @@
 
 ### Profile {#profile}
 
-본인은 저 자신에게 주어진 시간을 올바르면서 값지도록 노력하는 사람입니다. 진정한 가치가 무엇인지 매 순간 순간 고민하는 개발자가 되기 위해 노력 중 입니다. 맥을 좋아하다 보니 맥 사용이 가능한 개발환경을 찾아 떠도는 경향이 있습니다.
+본인은 저 자신에게 주어진 시간을 올바르면서 값지도록 노력하는 사람입니다. 
+진정한 가치가 무엇인지 매 순간 순간 고민하는 개발자가 되기 위해 노력 중 입니다. 
 
 ------
 
@@ -31,7 +32,7 @@
 1. HTML 5
 1. Javascript
 1. CSS
-1. Java
+ㅌㅋ1. Java
 1. Ruby / Rails / Redmine
 1. CVS / Subversion / Git
 1. OS X
